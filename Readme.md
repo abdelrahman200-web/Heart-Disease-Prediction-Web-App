@@ -107,7 +107,7 @@ heart-disease-predictor/
 
 ## 📷 Screenshot
 
-> ![App Preview](./screenshot.png)
+![alt text](image.png)
 
 ---
 
