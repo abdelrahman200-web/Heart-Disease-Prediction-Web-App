@@ -1,9 +1,3 @@
-Great! Below is a professional `README.md` file for your **Heart Disease Prediction App** built with Streamlit and Machine Learning.
-
-You can copy and save this content as `README.md` in your project directory.
-
----
-
 ## 📄 README.md
 
 ````markdown
