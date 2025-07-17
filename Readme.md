@@ -119,7 +119,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Developed by **[Your Name]** — Machine Learning Engineer & Software Developer  
+Developed by **[Abdelrahman saeed]** — Machine Learning Engineer & Software Developer  
 If you use this app in your work or research, feel free to reach out or give credit.
 
 ---
